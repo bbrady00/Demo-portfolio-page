@@ -35,5 +35,5 @@ This webpage serves as an online portfolio for Brian Brady. It includes sections
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/bbrady00/demo-portfolio-page.git
 ```
